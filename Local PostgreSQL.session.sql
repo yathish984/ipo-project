@@ -1,0 +1,1 @@
+CREATE DATABASE ipo_platform_db;
